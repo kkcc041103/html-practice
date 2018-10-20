@@ -1,0 +1,12 @@
+body {
+	background-color: blue;
+}
+
+h1 {
+	text-align: center;
+	color: yellow;
+}
+
+ul {
+	list-style-type: square; 
+}
